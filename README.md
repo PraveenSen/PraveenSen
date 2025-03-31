@@ -7,7 +7,7 @@
  
  -💪 Currently working as a Tech Lead. <br/>
  -💼 10 years of experience as full stack developer <br/>
- -📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Manish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/PraveenSen-0a9769aa/)](https://www.linkedin.com/in/PraveenSen/)
+ -📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Praveen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/PraveenSen-0a9769aa/)](https://www.linkedin.com/in/PraveenSen/)
  
 
  Languages and Tools: 
